@@ -17,12 +17,12 @@ El objetivo principal es combinar el consumo de API y el almacenamiento en bases
 
 ## 🧪 Funcionalidades del Menú
 Al ejecutar la aplicación, se muestra un menú interactivo en consola con las siguientes opciones:
-  1- Buscar Libro en el API por Título.
-  2- Listar libros de la Base de Datos.
-  3- Listar Autores de la Base de Datos.
-  4- Listar Autores en un determinado año [estando vivos].
-  5- Listar Libros de la Base de Datos por Idioma.
-  0- Finalizar Programa.
+- 1- Buscar Libro en el API por Título.
+- 2- Listar libros de la Base de Datos.
+- 3- Listar Autores de la Base de Datos.
+- 4- Listar Autores en un determinado año [estando vivos].
+- 5- Listar Libros de la Base de Datos por Idioma.
+- 0- Finalizar Programa.
 
 ## 🗃️ Base de Datos
 Se utiliza **PostgreSQL 17** como almacenamiento local.
@@ -32,9 +32,10 @@ Se utiliza **PostgreSQL 17** como almacenamiento local.
   Contiene: `id`, `titulo`, `lenguajes`, `autores`, `anio_nacimiento`, `anio_muerte`
 
 ## ✅ Requisitos para correr el proyecto
-- Java 17 o superior
-- IntelliJ IDEA o cualquier IDE con soporte Maven/Gradle
-- Internet para consumir la API de Gutendex
+- Java 17 o superior  
+- IntelliJ IDEA o cualquier IDE con soporte para Maven o Gradle  
+- Conexión a internet necesaria para consumir la API de Gutendex 
+- Base de datos configurada correctamente  
 
 ## 🚀 Cómo ejecutar
   1- Clona el Repositorio.
