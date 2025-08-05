@@ -38,8 +38,8 @@ Se utiliza **PostgreSQL 17** como almacenamiento local.
 - Base de datos configurada correctamente  
 
 ## 🚀 Cómo ejecutar
-  1- Clona el Repositorio.
-  2- Abre el proyecto en tu IDE de preferencia.
-  3- Asegurate de tener las dependencias necesarias.
-  4- Dentro de la Clase LibroDB, cambie las confiduraciones necesarias para hacer la conexión de la API correctamente.
-  5- Ejecute el archivo Demo para hacer uso del Proyecto.
+1. Clona el repositorio.  
+2. Abre el proyecto en tu IDE de preferencia.  
+3. Asegúrate de tener las dependencias necesarias.  
+4. Dentro de la clase `LibroDB`, modifica las configuraciones necesarias para conectar correctamente con la base de datos.  
+5. Ejecuta el archivo `Demo` para comenzar a utilizar el proyecto.  
